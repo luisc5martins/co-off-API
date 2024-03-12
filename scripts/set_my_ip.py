@@ -1,6 +1,5 @@
 import contextlib
 import os
-
 import netifaces as ni
 
 
